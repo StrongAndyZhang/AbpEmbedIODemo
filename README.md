@@ -1,2 +1,2 @@
 # AbpEmbedIODemo
-Integrate Abp with EmbedIO to use IOC easily.
+This is the repository to tell you how to use IOC in EmbedIO easily by Abp.
