@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/AbpEmbedIODemo/DesignTimeBuild
+/.vs/AbpEmbedIODemo/v16
+/ConsoleApp/bin/Debug/net5.0
+/ConsoleApp/obj
